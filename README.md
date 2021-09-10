@@ -1,4 +1,4 @@
-# adg
+# 双adg一键安装脚本
 wget https://raw.githubusercontent.com/wxfyes/adg/main/adg.sh && sh adg.sh  
 # 广告规则
   url: https://easylist-downloads.adblockplus.org/easylistchina.txt
