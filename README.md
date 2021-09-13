@@ -1,6 +1,34 @@
 # 双adg一键安装脚本 by [long-wind](https://github.com/lone-wind/)
 wget https://raw.githubusercontent.com/wxfyes/adg/main/adg.sh && sh adg.sh  
 # 广告规则
+
+  url: https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD/anti-ad-easylist.txt
+  name: anti-AD(Adblock+neohosts+yhosts+cjxlist+adhlist)
+
+  url: http://sbc.io/hosts/alternates/fakenews-gambling-porn-social/hosts
+  name: StevenBlack host+fakenews + gambling + porn + social
+  
+  url: http://sbc.io/hosts/hosts
+  name: StevenBlack host basic
+ 
+  url: https://hosts.nfz.moe/basic/hosts
+  name: neoHosts basic
+  
+  url: https://hosts.nfz.moe/full/hosts
+  name: neoHosts full
+
+  url: https://www.malwaredomainlist.com/hostslist/hosts.txt
+   name: MalwareDomainList.com Hosts List
+ 
+  url: https://adaway.org/hosts.txt
+  name: AdAway
+ 
+  url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  name: AdGuard Simplified Domain Names filter
+  
+  url: https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt
+  name: tvbox
+  
   url: https://easylist-downloads.adblockplus.org/easylistchina.txt
   name: easylistchina
 
